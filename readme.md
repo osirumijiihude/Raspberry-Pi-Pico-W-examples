@@ -1,6 +1,6 @@
-# Raspberry Pi Pico W Examples
+# Raspberry Pi Pico W Examples
 
-A collection of example scripts and projects for the **Raspberry Pi Pico W**, covering various sensors, modules, and functionalities.
+A collection of example scripts and projects for the **Raspberry Pi Pico**, **Pico W**, and **Arduino Uno**, covering various sensors, modules, and functionalities. Each Pico and Pico W project/script is written in 4 different languages - Micropython, Circuitpython, C++ and Rust. Arduino projects and scripts are only available in C++.
 
 ## Features
 - Example scripts for interfacing with **DHT11**, **MQ series gas sensors**, and more.
@@ -21,12 +21,12 @@ A collection of example scripts and projects for the **Raspberry Pi Pico W**, co
 ### Prerequisites
 - **Raspberry Pi Pico W**
 - **MicroPython Firmware** (Install via [Raspberry Pi Docs](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html))
-- **Thonny IDE** (or any preferred editor)
+- **Thonny IDE** (I use Neovim btw)
 
 ### Clone This Repository
 ```sh
-git clone https://github.com/osirumijiihude/Raspberry-Pi-Pico-W-examples.git
-cd Raspberry-Pi-Pico-W-examples
+git clone https://github.com/osirumijiihude/Microcontrollers.git
+cd Microcontrollers
 ```
 
 ## Contributing
@@ -36,5 +36,5 @@ Feel free to submit pull requests and contribute more examples!
 This project is licensed under the **MIT License**.
 
 ---
-Made with ❤️ by [Osirumiji Ihude](https://osirumijiihude.space) 🚀
+Made by [Osirumiji Ihude](https://osirumijiihude.space) 🚀
 
