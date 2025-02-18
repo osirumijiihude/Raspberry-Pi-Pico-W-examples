@@ -1,12 +1,9 @@
 # Microcontrollers
 
-A collection of example scripts and projects for the **Raspberry Pi Pico**, **Pico W**, and **Arduino Uno**, covering various sensors, modules, and functionalities. Each Pico and Pico W project/script is written in 4 different languages - Micropython, Circuitpython, C++ and Rust. Arduino projects and scripts are only available in C++.
+A collection of example scripts and projects for the **Raspberry Pi Pico**, **Pico W**, and **Arduino Uno**, covering various sensors, modules, and functionalities. 
 
 ## Features
-- Example scripts for interfacing with **DHT11**, **MQ series gas sensors**, and more.
-- **MicroPython** code for easy customization.
-- Bluetooth & Wi-Fi connectivity examples.
-- IoT integration and data logging.
+- Each Pico and Pico W project/script is written in 4 different languages - Micropython, Circuitpython, C++ and Rust. Arduino projects and scripts are only available in C/C++.
 
 ## Project Structure
 ```
